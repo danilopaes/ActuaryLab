@@ -1,4 +1,5 @@
-pandas
-numpy
-matplotlib
+-r requirements/base.txt
+-r requirements/notebooks.txt
+-r requirements/dev.txt
+-r requirements/tests.txt
 
