@@ -1,0 +1,17 @@
+[project]
+name = "ActuaryLab"
+version = "0.1.0"
+description = "Laboratório de estudos em Ciência Atuarial, Ciência de Dados e Gestão de Riscos."
+authors = [
+    {name = "Danilo Paes Ribeiro"}
+]
+requires-python = ">=3.12"
+
+[tool.black]
+line-length = 88
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
