@@ -1,6 +1,0 @@
-jupyter
-ipykernel
-notebook
-black
-isort
-pytest
