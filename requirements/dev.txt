@@ -1,2 +1,6 @@
-black
-isort
+black          # Formata automaticamente o código seguindo um padrão consistente
+isort          # Organiza automaticamente os imports em ordem e por categoria
+
+#ruff           # Linter rápido para identificar erros, más práticas e sugestões de melhoria
+#pre-commit     # Executa verificações automáticas antes de cada commit no Git
+#mypy           # Verifica a tipagem estática do código Python, encontrando erros antes da execução
