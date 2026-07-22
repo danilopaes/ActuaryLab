@@ -1,5 +1,13 @@
 # Ciência de Dados
 
-numpy
-pandas
-matplotlib
+numpy      # Computação numérica
+pandas     # Manipulação de dados
+matplotlib # Gráficos estáticos
+
+# scipy               -> Estatística e otimização
+# statsmodels         -> Modelos estatísticos
+# lifelines           -> Análise de sobrevivência
+# sqlalchemy          -> Integração com bancos de dados
+# scikit-learn        -> Machine Learning
+# plotly              -> Dashboards interativos
+# seaborn             -> Visualizações estatísticas
