@@ -1,1 +1,2 @@
-pytest
+pytest         # Framework para criação e execução de testes automatizados
+#pytest-cov     # Gera relatórios de cobertura de testes, mostrando quais partes do código foram testadas
